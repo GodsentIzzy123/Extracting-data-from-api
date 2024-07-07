@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "6662f062c1920f21f03ed98b",
+        "name": "ivan schranz",
+        "goals": 3,
+        "assists": 0,
+        "appearances": 4,
+        "firstTeamAppearances": 4,
+        "minutesPlayed": 335,
+        "teamName": "slovakia"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed9fb",
+        "name": "georges mikautadze",
+        "goals": 3,
+        "assists": 1,
+        "appearances": 4,
+        "firstTeamAppearances": 4,
+        "minutesPlayed": 351,
+        "teamName": "georgia"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed7af",
+        "name": "jamal musiala",
+        "goals": 3,
+        "assists": 0,
+        "appearances": 5,
+        "firstTeamAppearances": 5,
+        "minutesPlayed": 435,
+        "teamName": "germany"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed912",
+        "name": "cody gakpo",
+        "goals": 3,
+        "assists": 1,
+        "appearances": 5,
+        "firstTeamAppearances": 5,
+        "minutesPlayed": 457,
+        "teamName": "netherlands"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed919",
+        "name": "donyell malen",
+        "goals": 2,
+        "assists": 0,
+        "appearances": 3,
+        "firstTeamAppearances": 1,
+        "minutesPlayed": 150,
+        "teamName": "netherlands"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed7ae",
+        "name": "niclas fullkrug",
+        "goals": 2,
+        "assists": 0,
+        "appearances": 5,
+        "firstTeamAppearances": 0,
+        "minutesPlayed": 185,
+        "teamName": "germany"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed9c9",
+        "name": "merih demiral",
+        "goals": 2,
+        "assists": 0,
+        "appearances": 4,
+        "firstTeamAppearances": 2,
+        "minutesPlayed": 227,
+        "teamName": "turkiye"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed82d",
+        "name": "dani olmo",
+        "goals": 2,
+        "assists": 2,
+        "appearances": 4,
+        "firstTeamAppearances": 1,
+        "minutesPlayed": 282,
+        "teamName": "spain"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed809",
+        "name": "breel embolo",
+        "goals": 2,
+        "assists": 0,
+        "appearances": 5,
+        "firstTeamAppearances": 3,
+        "minutesPlayed": 297,
+        "teamName": "switzerland"
+    },
+    {
+        "_id": "6662f062c1920f21f03ed7b6",
+        "name": "florian wirtz",
+        "goals": 2,
+        "assists": 0,
+        "appearances": 5,
+        "firstTeamAppearances": 3,
+        "minutesPlayed": 298,
+        "teamName": "germany"
+    }
+]
